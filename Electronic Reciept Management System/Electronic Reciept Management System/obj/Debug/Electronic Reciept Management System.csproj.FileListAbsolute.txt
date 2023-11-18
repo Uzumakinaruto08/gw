@@ -1,0 +1,10 @@
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\bin\Debug\Electronic Reciept Management System.exe.config
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\bin\Debug\Electronic Reciept Management System.exe
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\bin\Debug\Electronic Reciept Management System.pdb
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic Reciept Management System.csproj.AssemblyReference.cache
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic_Reciept_Management_System.Login.resources
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic_Reciept_Management_System.Properties.Resources.resources
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic Reciept Management System.csproj.GenerateResource.cache
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic Reciept Management System.csproj.CoreCompileInputs.cache
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic Reciept Management System.exe
+C:\Users\41768\source\repos\Electronic Reciept Management System\Electronic Reciept Management System\obj\Debug\Electronic Reciept Management System.pdb
